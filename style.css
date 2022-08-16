@@ -11,7 +11,7 @@ body {
     justify-content: center;
     background-color: #fff;
     margin: 0;
-    font-family: flexo;
+    font-family: flexo, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 header img {
